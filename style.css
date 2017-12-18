@@ -1,0 +1,14 @@
+header {
+	text-transform: uppercase;
+	text-decoration: none;
+	text-align: center; 
+	background-color: pink;
+	height: 50px; 
+}
+
+header a {
+	margin: 0 20px;
+	text-decoration: none;
+	color: #565656;
+	line-height: 50px;
+}
